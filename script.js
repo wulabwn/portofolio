@@ -67,14 +67,14 @@ $(document).ready(function(){
         // typed animated
 
     var typed = new Typed(".typing",{
-        strings:["freelancer", "Developer ", "Tester" ],
+        strings:["freelancer","Quality Control", "Developer ", "Tester" ],
         typedSpeed: 290000009999999,
         backspeed:100000000000000,
         loop:true
     });
 
     var typed = new Typed(".typeddd",{
-        strings:["freelancer", "Developer ", "Tester" ],
+        strings:["freelancer", "Quality Control","Developer ", "Tester" ],
         typedSpeed: 290,
         backspeed:100,
         loop:true
